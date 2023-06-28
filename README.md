@@ -17,7 +17,7 @@ I'm Adrian - A developer in the making and an adventurer at heart.
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![REST API](https://img.icons8.com/windows/32/000000/postman-api.png)
+![API](https://img.icons8.com/ios-filled/50/000000/api-settings.png)
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
