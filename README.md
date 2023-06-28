@@ -12,4 +12,14 @@ I'm Adrian - A developer in the making and an adventurer at heart.
 - ⚡ Fun fact: I'm currently in the process of transitioning careers. Switching paths has been an exciting challenge, and I'm loving every step of this new adventure!
 ## Technologies I work with
 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![React](https://img.icons8.com/color/48/000000/react-native.png)
+## Technologies I work with
+
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![REST API](https://img.icons8.com/windows/32/000000/postman-api.png)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Figma](https://img.icons8.com/color/48/000000/figma.png)
+![Webpack](https://img.icons8.com/dusk/64/000000/webpack.png)
