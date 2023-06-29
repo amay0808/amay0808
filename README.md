@@ -10,8 +10,7 @@ I'm Adrian - A developer in the making and an adventurer at heart.
 - 📫 How to reach me: Drop me a line at amay0808@protonmail.com. I'm always happy to connect and chat about tech, code, and innovation.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm currently in the process of transitioning careers. Switching paths has been an exciting challenge, and I'm loving every step of this new adventure!
-## Technologies I work with
-
+  
 ## Technologies I work with
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
