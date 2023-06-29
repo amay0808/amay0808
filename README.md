@@ -1,6 +1,6 @@
-### Hi there 👋
+  ### Hi there 👋
 
-I'm Adrian - A developer in the making and an adventurer at heart.
+  I'm Adrian - A developer in the making and an adventurer at heart.
 
 - 🔭 I’m currently working on a cool project that's helping me strengthen my full-stack development skills. Can't wait to share more details soon!
 - 🌱 I'm presently diving deep into the realm of full-stack development. It's amazing to see how the front-end and back-end come together to create seamless user experiences.
