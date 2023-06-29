@@ -1,6 +1,3 @@
-
-
-
 ### Hi there 👋
 
 I'm Adrian - A developer in the making and an adventurer at heart.
@@ -26,4 +23,7 @@ I'm Adrian - A developer in the making and an adventurer at heart.
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 ![Webpack](https://img.icons8.com/dusk/64/000000/webpack.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amay0808&show_icons=true)
+
 
