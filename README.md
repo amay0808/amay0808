@@ -23,3 +23,4 @@ I'm Adrian - A developer in the making and an adventurer at heart.
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 ![Webpack](https://img.icons8.com/dusk/64/000000/webpack.png)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=your.username)
