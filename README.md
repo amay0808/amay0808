@@ -22,6 +22,10 @@
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma.png)
 ![Webpack](https://img.icons8.com/dusk/64/000000/webpack.png)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amay0808&show_icons=true)
 
