@@ -26,8 +26,7 @@
 ![Express.js](https://img.icons8.com/color/48/000000/express.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
-Credits
-Icons made by [Icons8](https://www.icons8.com).
+made by [Icons8](https://www.icons8.com).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amay0808&show_icons=true)
 
