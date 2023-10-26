@@ -7,7 +7,6 @@
 - 👯 I’m eager to collaborate on projects that challenge me and offer opportunities to learn new techniques and strategies.
 - 🤔 I’m always on the hunt for new learning opportunities. Whether it's a novel coding strategy or a unique project idea, I'm all ears!
 - 💬 Ask me about my coding journey, my projects, my love for full-stack development, or how I can contribute to your next big idea!
-- 📫 How to reach me: Drop me a line at amay0808@protonmail.com. I'm always happy to connect and chat about tech, code, and innovation.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm currently in the process of transitioning careers. Switching paths has been an exciting challenge, and I'm loving every step of this new adventure!
   
