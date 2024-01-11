@@ -30,19 +30,35 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
 
 ## Technologies I Work With
 
-- ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript
-- ![React](https://img.icons8.com/color/24/000000/react-native.png) React
-- ![API](https://img.icons8.com/ios/24/ffffff/api-settings.png) API Development
-- ![VS Code](https://img.icons8.com/color/24/000000/visual-studio-code-2019.png) VS Code
-- ![HTML5](https://img.icons8.com/color/24/000000/html-5--v1.png) HTML5
-- ![CSS3](https://img.icons8.com/color/24/000000/css3.png) CSS3
-- ![Figma](https://img.icons8.com/color/24/000000/figma.png) Figma
-- ![Webpack](https://img.icons8.com/dusk/24/000000/webpack.png) Webpack
-- ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png) Node.js
-- ![Express.js](https://img.icons8.com/color/24/000000/express.png) Express.js
-- ![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png) MongoDB
-- ![Google Cloud](https://img.icons8.com/color/24/000000/google-cloud.png) Google Cloud
-- ![Python](https://img.icons8.com/color/24/000000/python.png) Python
+## Technologies I Work With
+
+<p>
+  <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" /> JavaScript
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/react-native.png" alt="React" /> React
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios/24/ffffff/api-settings.png" alt="API Development" /> API Development
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png" alt="VS Code" /> VS Code
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/html-5--v1.png" alt="HTML5" /> HTML5
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS3" /> CSS3
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/figma.png" alt="Figma" /> Figma
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/dusk/24/000000/webpack.png" alt="Webpack" /> Webpack
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/nodejs.png" alt="Node.js" /> Node.js
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/express.png" alt="Express.js" /> Express.js
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/mongodb.png" alt="MongoDB" /> MongoDB
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/google-cloud.png" alt="Google Cloud" /> Google Cloud
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /> Python
+</p>
 
 Icons made by [Icons8](https://www.icons8.com).
 
