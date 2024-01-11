@@ -28,10 +28,6 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
   
 ## Technologies I Work With
 
-## Technologies I Work With
-
-## Technologies I Work With
-
 <p>
   <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" /> JavaScript
   &nbsp;&nbsp;&nbsp;
