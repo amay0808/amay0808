@@ -26,11 +26,10 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
 
 [LinkedIn](https://www.linkedin.com/in/adrianmayfield)
   
-## Technologies I work with
+## Technologies I Work With
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![API](https://img.icons8.com/ios/50/ffffff/api-settings.png)
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
@@ -41,8 +40,11 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
 ![Express.js](https://img.icons8.com/color/48/000000/express.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png)
+![Python](https://img.icons8.com/color/48/000000/python.png) 
 made by [Icons8](https://www.icons8.com).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amay0808&show_icons=true)
+![Adrian's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amay0808&theme=xcode)
+
+
 
 
