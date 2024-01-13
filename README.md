@@ -4,7 +4,7 @@
 
 ### About Me
 
-🔭 **Currently Working On:**  
+💻 **Currently Working On:**  
 I’m currently working on a cool project that's helping me strengthen my full-stack development skills. Can't wait to share more details soon!
 
 🌱 **My Learning Path:**  
