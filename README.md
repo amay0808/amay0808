@@ -16,9 +16,6 @@ I’m eager to collaborate on projects that challenge me and offer opportunities
 💬 **Let's Talk About:**  
 Ask me about my coding journey, my projects, my love for full-stack development, or how I can contribute to your next big idea!
 
-😄 **Pronouns:**  
-He/Him
-
 ⚡ **Fun Fact:**  
 I'm in the process of transitioning careers. Switching paths has been an exciting challenge, and I'm loving every step of this new adventure!
 
