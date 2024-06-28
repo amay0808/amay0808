@@ -62,7 +62,6 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
 Icons made by [Icons8](https://www.icons8.com).
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amay0808&show_icons=true)
 
 
 
