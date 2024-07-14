@@ -55,6 +55,9 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
   <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /> Python
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,figma,nodejs,express,mongodb,python)](https://skillicons.dev)
+
+
 Icons made by [Icons8](https://www.icons8.com).
 
 
