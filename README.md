@@ -35,7 +35,7 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,figma,nodejs,express,mongodb,python)](https://skillicons.dev)
 
 
-Icons made by [Icons8](https://www.icons8.com).
+
 
 
 
