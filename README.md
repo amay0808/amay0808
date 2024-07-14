@@ -31,29 +31,6 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
 
 ## Technologies I Work With
 
-<p>
-  <img src="https://img.icons8.com/color/24/000000/javascript.png" alt="JavaScript" /> JavaScript
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/react-native.png" alt="React" /> React
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png" alt="VS Code" /> VS Code
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/html-5--v1.png" alt="HTML5" /> HTML5
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/css3.png" alt="CSS3" /> CSS3
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/figma.png" alt="Figma" /> Figma
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/nodejs.png" alt="Node.js" /> Node.js
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/express.png" alt="Express.js" /> Express.js
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/mongodb.png" alt="MongoDB" /> MongoDB
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/google-cloud.png" alt="Google Cloud" /> Google Cloud
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python" /> Python
-</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,figma,nodejs,express,mongodb,python)](https://skillicons.dev)
 
