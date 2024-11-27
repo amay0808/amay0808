@@ -22,8 +22,6 @@ I'm in the process of transitioning careers. Switching paths has been an excitin
 ### Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/codewithadrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithadrian" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@codewithadrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/amay0808/amay0808/main/hashnode_icon_blue.svg" alt="@codewithadrian" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/adrianmayfield/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianmayfield" height="30" width="40" />
   <a href="https://www.instagram.com/explorewith_adrian.tech/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="explorewith_adrian.tech" height="30" width="30" /></a>
 </p>
